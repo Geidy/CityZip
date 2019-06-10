@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.aa95821e.chunk.css",
+    "main.js": "/repository-name/static/js/main.55fe2d26.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.55fe2d26.chunk.js.map",
+    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
+    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
+    "static/js/2.ff47f192.chunk.js": "/repository-name/static/js/2.ff47f192.chunk.js",
+    "static/js/2.ff47f192.chunk.js.map": "/repository-name/static/js/2.ff47f192.chunk.js.map",
+    "index.html": "/repository-name/index.html",
+    "precache-manifest.49f90e7a594664c636a853cf9c1a6a48.js": "/repository-name/precache-manifest.49f90e7a594664c636a853cf9c1a6a48.js",
+    "service-worker.js": "/repository-name/service-worker.js",
+    "static/css/main.aa95821e.chunk.css.map": "/repository-name/static/css/main.aa95821e.chunk.css.map",
+    "static/media/index.css": "/repository-name/static/media/plateau_nida.7aff1100.jpg"
+  }
+}
